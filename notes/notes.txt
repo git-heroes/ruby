@@ -1,0 +1,14 @@
+git init
+git branch
+git checkout
+git checkout -b
+git fetch
+git pull
+git push
+git merge
+git merge --abort
+
+github
+  issues
+  pull requests
+  forks
