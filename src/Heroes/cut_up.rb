@@ -1,5 +1,5 @@
 class CutUp < AbstractHero
   def initialize()
-    super("CutUp", :scissors, :rock, "I am a cut above!")
+    super("CutUp", :scissors, :paper, "I am a cut above!")
   end
 end

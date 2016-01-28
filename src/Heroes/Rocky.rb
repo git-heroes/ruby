@@ -1,5 +1,5 @@
 class Rocky < AbstractHero
   def initialize()
-    super("Rocky", :rock, :paper, "I rock!")
+    super("Rocky", :rock, :scissors, "I rock!")
   end
 end
