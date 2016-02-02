@@ -1,5 +1,5 @@
 class Duck < AbstractHero
   def initialize
-    super('Duck', :bite, :hypothermia, 'Quack Quack, bread?')
+    super('Duck', :scissors, :paper, 'Quack Quack, bread?')
   end
 end
